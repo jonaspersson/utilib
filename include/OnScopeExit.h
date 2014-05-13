@@ -1,12 +1,12 @@
 #pragma once
-//  (C) Copyright 2008-2013 Jonas Persson (l.j.persson@gmail.com)
+//  (C) Copyright 2008-2014 Jonas Persson (l.j.persson@gmail.com)
 //
 //  Distributed under the Boost Software License, Version 1.0. (See
 //  accompanying file LICENSE_1_0.txt or copy at
 //  http://www.boost.org/LICENSE_1_0.txt)
 
 //  https://github.com/jonaspersson/utilib
-//
+
 #include <utility>
 
 namespace utilib {
