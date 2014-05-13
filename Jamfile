@@ -1,0 +1,10 @@
+# vim: set syntax=jam: set fdm=indent:
+import testing ;
+
+unit-test test
+  : test/test.cpp
+    /boost//unit_test_framework/<link>static
+  : <cxxflags>"-std=c++11"
+    <cxxflags>"-stdlib=libc++"
+    <cxxflags>"-Wall"
+  ;
